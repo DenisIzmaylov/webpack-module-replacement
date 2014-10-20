@@ -21,3 +21,6 @@ var ModuleReplacementPlugin = require('webpack-module-replacement');
             ]
 ...
 ```
+
+##TODO
+- Merge code from ContextReplacementPlugin

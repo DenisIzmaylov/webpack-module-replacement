@@ -3,15 +3,12 @@
 	"version": "1.0.0",
 	"author": "@DenisIzmaylov",
 	"description": "webpack plugin to support advanced module replacement",
-	"dependencies": {},
 	"licenses": [
 		{
 			"type": "MIT",
 			"url": "http://www.opensource.org/licenses/mit-license.php"
 		}
 	],
-	"devDependencies": {
-	},
 	"engines": {
 		"node":  ">=0.6"
 	},
